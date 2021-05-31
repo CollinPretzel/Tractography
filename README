@@ -1,1 +1,7 @@
-
+This is a repository dedicated to reviewing the basics of creating a tract image for MSBIL using the Fornix-Fimbria formation in ferret brains, specifically FT38
+It will include:
+  - Images of example tracks
+  - Past attempts and their shortcomings
+  - The best determined method
+  - A full example of the best method (so far) in a Jupyter Notebook format
+  - A handy-dandy shortlist of necessary commands with brief descriptions
